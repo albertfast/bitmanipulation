@@ -3,7 +3,7 @@ import re
 
 app = Flask(__name__)
 
-app.secret_key = 'Change'
+app.secret_key = '373-574-591'
 
 # Define the bitMap and scrambleMap
 bit_map = [i + 8 * j for i in range(8) for j in range(4)]
