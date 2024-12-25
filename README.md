@@ -23,3 +23,5 @@ Ensure you have the following installed on your machine:
 Install the required Python packages using the command:
 ```bash
 pip install -r requirements.txt
+pip install flask
+$ flask run
