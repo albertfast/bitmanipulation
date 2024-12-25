@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-from bitMap1 import encode_text  # Adjust based on the actual function name in bitMap1.py
+from bitMapgit import encode_text  # Adjust based on the actual function name in bitMap1.py
 
 app = Flask(__name__)
 
