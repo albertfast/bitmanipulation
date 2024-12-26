@@ -24,4 +24,4 @@ Install the required Python packages using the command:
 ```bash
 pip install -r requirements.txt
 pip install flask
-$ flask run
+flask run
